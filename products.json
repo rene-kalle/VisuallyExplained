@@ -1,0 +1,20 @@
+{
+    "products" : [
+        {
+            "name": "Matcha",
+            "price": 12.99,
+            "in_stock": true,
+            "sale_price": 8.99
+        },
+        {
+            "name": "Black Tea",
+            "price": 9.99,
+            "in_stock": false
+        },
+        {
+            "name": "Picard's Earl Grey",
+            "price": 99.99,
+            "in_stock": true
+        }
+    ]
+}

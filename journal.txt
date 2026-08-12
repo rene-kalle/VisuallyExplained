@@ -1,0 +1,3 @@
+Day 1: Started learning Python.
+Day 2: Practiced file handling.
+Day 3: Build my first project.
